@@ -12,7 +12,9 @@
 
 - 💬 Ask me about **Mern Stack Development**
 
-- ⚡ Fun fact **itsrohanadhikari@gmail.com**
+- ✉️ You can reach me out through **itsrohanadhikari@gmail.com**
+
+- ⚡ Fun fact **I learn best by building—every new technology I study eventually becomes a project.**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1JhOPmzUB8XfZNfOoTT9wtU0mi5r1mmyX/view?usp=sharing](https://drive.google.com/file/d/1JhOPmzUB8XfZNfOoTT9wtU0mi5r1mmyX/view?usp=sharing)**
 
